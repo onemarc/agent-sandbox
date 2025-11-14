@@ -366,6 +366,10 @@ sniffio==1.3.1 \
     --hash=sha256:2f6da418d1f1e0fddd844478f41680e794e6051915791a034ff65e5f100525a2 \
     --hash=sha256:f4324edc670a0f49750a81b895f35c3adb843cca46f0530f79fc1babb23789dc
     # via anyio
+sse-starlette==3.0.3 \
+    --hash=sha256:88cfb08747e16200ea990c8ca876b03910a23b547ab3bd764c0d8eb81019b971 \
+    --hash=sha256:af5bf5a6f3933df1d9c7f8539633dc8444ca6a97ab2e2a7cd3b6e431ac03a431
+    # via -r requirements.in
 starlette==0.47.3 \
     --hash=sha256:6bc94f839cc176c4858894f1f8908f0ab79dfec1a6b8402f6da9be26ebea52e9 \
     --hash=sha256:89c0778ca62a76b826101e7c709e70680a1699ca7da6b44d38eb0a7e61fe4b51
